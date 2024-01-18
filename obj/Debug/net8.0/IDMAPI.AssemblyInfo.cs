@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IDMAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebf4d3b508e5b6dd7213b2dfb058457ab94ab803")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07a2b8586d88f5801c5942b2ce822a1a349c3bb6")]
 [assembly: System.Reflection.AssemblyProductAttribute("IDMAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IDMAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
